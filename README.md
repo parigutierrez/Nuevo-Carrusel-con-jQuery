@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# carousel-demo
-Carousel with HTML, CSS and JS
+
+Carousel with HTML, CSS and JS y jQuery
 =======
-# Nuevo-Carrusel-con-jQuery
-Carrusel de imágenes utilizando jQuery
->>>>>>> 5f7bf96e0de89dbb178aa025fe14ae52a40bc1bd
+# Carrusel de imágenes utilizando jQuery
