@@ -6,13 +6,23 @@
 .carousel-content.active {
 	display: block;
 }
+
 img{
 	width: 900px;
 	height: 550px;
 }
-h1{
+
+.titulo{
 	font-family: 'Oswald', sans-serif;
+	margin-left: 38%;
+	color:#8A084B;
 }
-body{
+
+.carousel{
 	background-color:#8A084B;
+	padding: 4% 10% 4% 11%;
+}
+
+#botones{
+	margin-left: 45%;
 }
