@@ -24,5 +24,19 @@ img{
 }
 
 #botones{
-	margin-left: 45%;
+	margin-left: 42%;
+}
+.cuadro{
+	margin-top:10px;
+	width:40px;
+	height:25px;
+}
+
+.controls .btn-default{
+	background-color: #31708f;
+
+}
+.flecha{
+	margin-top: 42px;
+	font-size: 22px;
 }
